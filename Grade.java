@@ -23,5 +23,6 @@ public class Grade {
         else{
             System.out.println("Invalid marks entered.");
         }
+        scanner.close();
     }
 }
